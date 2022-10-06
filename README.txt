@@ -1,0 +1,1 @@
+make sure to import the database into PHPMYADMIN with the name user_db
